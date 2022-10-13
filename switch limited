@@ -1,0 +1,103 @@
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}},"color":{"background":"#f2f2f2"}},"layout":{"inherit":false}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#f2f2f2;margin-top:0px;margin-bottom:0px"><!-- wp:query {"queryId":7,"query":{"perPage":"1","pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":"3.5vw","margin":{"top":"0px","bottom":"0px"}}}} -->
+<div class="wp-block-columns" style="margin-top:0px;margin-bottom:0px"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":22,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://switchlimited.files.wordpress.com/2022/10/pexels-photo-730564.jpeg" alt="" class="wp-image-22"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|foreground"}}}},"layout":{"inherit":true}} -->
+<div class="wp-block-column is-vertically-aligned-center has-link-color"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:group -->
+<div class="wp-block-group"><!-- wp:post-title {"isLink":true,"style":{"spacing":{"margin":{"top":"8px"}},"typography":{"fontStyle":"normal","fontWeight":"600"}},"fontSize":"x-large"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:read-more {"style":{"spacing":{"padding":{"top":"14px","right":"28px","bottom":"14px","left":"28px"},"margin":{"top":"32px"}},"border":{"width":"1px","radius":"100px"}}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}},"color":{"background":"#f2f2f2"}},"backgroundColor":"background","layout":{"inherit":false}} -->
+<div class="wp-block-group alignfull has-background-background-color has-background" style="background-color:#f2f2f2;margin-top:0px;margin-bottom:0px"><!-- wp:query {"queryId":17,"query":{"perPage":6,"pages":0,"offset":"1","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"exclude","inherit":false},"displayLayout":{"type":"flex","columns":3},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template -->
+<!-- wp:group {"style":{"visualizers":{"padding":{"top":true,"right":true,"bottom":true,"left":true}}},"layout":{"inherit":false}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"16px"}}} -->
+<div class="wp-block-group"><!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}},"color":{"background":"#f2f2f2"}},"backgroundColor":"tertiary","textColor":"black","layout":{"inherit":true,"type":"constrained"},"fontSize":"14px"} -->
+<div class="wp-block-group alignfull has-black-color has-tertiary-background-color has-text-color has-background has-14-px-font-size" style="background-color:#f2f2f2;margin-top:0px;margin-bottom:0px"><!-- wp:cover {"url":"https://wpcomverticals.files.wordpress.com/2022/05/pexels-photo-259209.jpeg?resize=2000%2C1333","id":1473,"dimRatio":50,"overlayColor":"background","isDark":false,"align":"wide"} -->
+<div class="wp-block-cover alignwide is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-background-color has-background-dim"></span><img class="wp-block-cover__image-background wp-image-1473" alt="" src="https://wpcomverticals.files.wordpress.com/2022/05/pexels-photo-259209.jpeg?resize=2000%2C1333" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"padding":{"top":"40px","bottom":"40px"}}},"textColor":"foreground"} -->
+<div class="wp-block-group has-foreground-color has-text-color" style="padding-top:40px;padding-bottom:40px"><!-- wp:heading -->
+<h2>À propos de nous</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"16px"}},"textColor":"foreground"} -->
+<p class="has-foreground-color has-text-color" style="font-size:16px">Nous Sommes une agence de Trading appeler SWITCH LIMITED ouvert depuis le 17 décembre 2019. Cette entreprise a pour but de faire tripler votre capitale en une durée de temps limitée.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0px","bottom":"0px"}},"color":{"background":"#f2f2f2"}}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#f2f2f2;margin-top:0px;margin-bottom:0px"><!-- wp:cover {"dimRatio":10,"overlayColor":"primary","minHeight":271,"minHeightUnit":"px","align":"full"} -->
+<div class="wp-block-cover alignfull" style="min-height:271px"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-10 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:preformatted {"textColor":"foreground","fontSize":"medium"} -->
+<pre id="tw-target-text" class="wp-block-preformatted has-foreground-color has-text-color has-medium-font-size">Ce que nous faisons</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph {"align":"center","placeholder":"Write title…","textColor":"foreground"} -->
+<p class="has-text-align-center has-foreground-color has-text-color">Nous Sommes une international agence de Trading appeler SWITCH LIMITED ouvert depuis le 11 mai 2019. Cette entreprise a pour but de faire en sorte que votre capitale s'augmente au fur et à mesure du temps durée de temps limité.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:heading {"fontSize":"large"} -->
+<h2 class="has-large-font-size">Ils existes 2 offres:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:code -->
+<pre class="wp-block-code"><code><p> </p><h2>PREMIER OFFRE 119$:</h2> -Tu Gagne entre 3.9% et 4.7% (possibiliter de retirer ton argent apres 21j).<br>-une Valeur d’Nft entre 120$ et 230$ pour chaque membre payant loffres.<br>-60$ a chaque personnes qui envoie un client.<br>-Tu peux payer via wave et perfect money et en usdt.<br><p></p></code></pre>
+<!-- /wp:code --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:code -->
+<pre class="wp-block-code"><code><p> </p><h2>DEUXIEME OFFRE 219$:</h2> <br>-Tu Gagne entre 4.9% et 6.3% (possibilite de retirer ton argent en 16j).<br>-Une valeur d’Nft entre 240$ et 360$ pour chaque membre payant loffres.<br>-130$ gaganez a chaque personne envoyant un client.<br>-Tu peux payer via wave et perfect money et en usdt.<p></p></code></pre>
+<!-- /wp:code --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
